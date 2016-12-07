@@ -5,4 +5,5 @@ XEdit is a project I've been working on the past few days. Just a simple raw tex
 - [ ] Support for formatting
 - [ ] Working toolbar
 - [ ] Spellcheck
+- [ ] Autosave
 - [ ] ...
